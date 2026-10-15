@@ -28,7 +28,7 @@ id = "052cac41ff5548589ba3d04daf7cd4ba"
 # (لو أردت نشراً بالشحن اليدوي فقط قبل ذلك: علّم الكتلة [[kv_namespaces]] الخاصة بهذا الربط بـ# — النظام يبقى سليماً والشحن التلقائي مغلقاً)
 [[kv_namespaces]]
 binding = "SHIPPING_CACHE_KV"
-id = "REPLACE_WITH_ID_FROM_WRANGLER_KV_NAMESPACE_CREATE_COMMAND"
+id = "f3b1ed34abfd4f2ab36d49b2a39bad76"
 
 [vars]
 # الرابط العام لعرض الصور بعد ربط نطاق مخصص أو Public Development URL بالـ R2 bucket
